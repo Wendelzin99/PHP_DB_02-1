@@ -5,4 +5,4 @@ function somar($a, $b)
     return $a + $b;
 }
 
-echo somar(10, 20); // 30
+echo somar(5, 4); // 30
